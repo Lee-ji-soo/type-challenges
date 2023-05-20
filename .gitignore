@@ -5,3 +5,9 @@ dist
 *.log
 *.local
 playground/
+guides/
+screenshots/
+scripts/
+site/
+utils/
+.README.ko.md
